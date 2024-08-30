@@ -10,3 +10,5 @@ Research Publications:
 
 [Google Scholar](https://scholar.google.com/citations?user=nx-tB9oAAAAJ&hl=en)
 
+<img src="https://www.maptimum.com/img/logo.svg" style="width:200px; height:auto;">
+Check out my startup, Maptimum, which helps homebuyers <a href="https://www.maptimum.com">evaluate neighborhoods using hyperlocal data and AI-powered personalized analysis</a>.
